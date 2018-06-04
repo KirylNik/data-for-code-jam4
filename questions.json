@@ -1,0 +1,71 @@
+[
+    {
+        "Type":"Enter answer",
+        "Question":"Who was entrusted with the mission of destroying the Ring of Omnipotence?",
+        "Answer":"frodo"
+    },
+    {
+        "Type":"Enter answer",
+        "Question":"Who was Frodo Baggins?",
+         "Answer":"hobbit"
+    },
+    {
+        "Type":"Select answer",
+        "Question":"What was the name of the detachment assembled to destroy the ring?",
+        "Answer":"The Fellowship of the Ring",
+        "Options":["The Fellowship of the Ring","The Brotherhood of Jewelers","Brotherhood of Frodo"]
+    },
+    {
+        "Type":"Select answer",
+        "Question":"What gift did Frodo receive from Galadriel?",
+        "Answer":"Star Light","Options":["Curl of hair","Sword","Star Light"]
+    },
+    {
+        "Type":"Enter answer",
+        "Question":"Who wanted to take Rohan and stormed Helmov's back?",
+        "Answer":"saruman"
+    },
+    {
+        "Type":"Select answer",
+        "Question":"Who helped the hobbits to escape after destroying the ring?",
+        "Answer":"Eagles",
+        "Options":["Gollum","Gnomes","Eagles"]
+    },{
+        "Type":"Select answer",
+        "Question":"Hobbits live in a locality called ...?",
+        "Answer":"Shire",
+        "Options":["Shire","Rivendell","Mordor"]
+    },
+    {
+        "Type":"Select answer",
+        "Question":"Who was the guide of Frodo and Sam to the Fiery Mountain of Orodruin?",
+        "Answer":"Gollum",
+        "Options":["Boromir","Gollum","Faramir"]
+    },
+    {
+        "Type":"Enter answer",
+        "Question":"Gollum used to be in the past ...",
+        "Answer":"hobbit"
+    },
+    {
+        "Type":"Select answer",
+        "Question":"What happens to the one who puts the Ring of Omnipotence on the finger?",
+        "Answer":"He becomes invisible",
+        "Options":["He becomes invulnerable","He becomes invisible","He becomes huge"]
+    },
+    {
+        "Type":"Enter answer",
+        "Question":"What was the name of Gollum before the Ring came to him?",
+        "Answer":"smeagol"
+    },
+    {
+        "Type":"Enter answer",
+        "Question":"What was the name of Lord of the Rings?",
+        "Answer":"sauron"
+    },
+    {
+        "Type":"Enter answer",
+        "Question":"Who actually destroyed the ring?",
+        "Answer":"gollum"
+    }
+]
