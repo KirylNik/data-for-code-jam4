@@ -67,5 +67,21 @@
         "Type":"Enter answer",
         "Question":"Who actually destroyed the ring?",
         "Answer":"gollum"
+    },
+    {
+        "Type":"Enter answer",
+        "Question":"Who forged Оne Ring??",
+        "Answer":"sauron"
+    },
+    {
+        "Type":"Select answer",
+        "Question":"Where did the Lord of the Rings take pictures?",
+        "Answer":"New Zealand","Options":["Baranavichy","USA","New Zealand"]
+    },
+    {
+        "Type":"Select answer",
+        "Question":"What do you think, how many athers were involved in various mass scenes?",
+        "Answer":"20 000",
+        "Options":["2 000","4 000","20 000"]
     }
 ]
