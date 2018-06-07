@@ -81,22 +81,20 @@
     },
     {
         "Type":"Answer the audio question",
-        "Question":"What was the guardian of Frodo?",
+        "Question":"Listen to the audio question.",
+        "AudioQuestion":"What was the guardian of Frodo?",
         "Answer":"ring"
     },
     {
         "Type":"Answer the audio question",
-        "Question":"Is it true that Hobbits do not usually wear shoes?",
+        "Question":"Listen to the audio question.",
+        "AudioQuestion":"Is it true that Hobbits do not usually wear shoes?",
         "Answer":"yes"
     },
     {
         "Type":"Answer the audio question",
-        "Question":"Is it true that Hobbits do not usually wear shoes?",
-        "Answer":"yes"
-    },
-    {
-        "Type":"Answer the audio question",
-        "Question":"Who forged Оne Ring?",
+        "Question":"Listen to the audio question.",
+        "AudioQuestion":"Who forged Оne Ring?",
         "Answer":"sauron"
     }
 ]
