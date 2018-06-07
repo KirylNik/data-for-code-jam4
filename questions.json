@@ -69,11 +69,6 @@
         "Answer":"gollum"
     },
     {
-        "Type":"Enter answer",
-        "Question":"Who forged Оne Ring??",
-        "Answer":"sauron"
-    },
-    {
         "Type":"Select answer",
         "Question":"Where did the Lord of the Rings take pictures?",
         "Answer":"New Zealand","Options":["Baranavichy","USA","New Zealand"]
@@ -83,5 +78,25 @@
         "Question":"What do you think, how many athers were involved in various mass scenes?",
         "Answer":"20 000",
         "Options":["2 000","4 000","20 000"]
+    },
+    {
+        "Type":"Answer the audio question",
+        "Question":"What was the guardian of Frodo?",
+        "Answer":"ring"
+    },
+    {
+        "Type":"Answer the audio question",
+        "Question":"Is it true that Hobbits do not usually wear shoes?",
+        "Answer":"yes"
+    },
+    {
+        "Type":"Answer the audio question",
+        "Question":"Is it true that Hobbits do not usually wear shoes?",
+        "Answer":"yes"
+    },
+    {
+        "Type":"Answer the audio question",
+        "Question":"Who forged Оne Ring?",
+        "Answer":"sauron"
     }
 ]
