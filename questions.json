@@ -96,5 +96,14 @@
         "Question":"Listen to the audio question.",
         "AudioQuestion":"Who forged Оne Ring?",
         "Answer":"sauron"
+    },
+        {
+        "Type":"Puzzle"
+    },
+    {
+        "Type":"Puzzle"
+    },
+    {
+        "Type":"Puzzle"
     }
 ]
