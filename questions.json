@@ -99,14 +99,20 @@
     },
     {
         "Type":"Puzzle",
+        "FolderParts":"puzzle_01",
+        "CorrectOrder":"305214",
+        "Parts":["puzzle_01/puzzle_01_part02.jpg","puzzle_01/puzzle_01_part05.jpg","puzzle_01/puzzle_01_part04.jpg","puzzle_01/puzzle_01_part01.jpg","puzzle_01/puzzle_01_part06.jpg","puzzle_01/puzzle_01_part03.jpg"]
+    },
+    {
+        "Type":"Puzzle",
+        "FolderParts":"puzzle_01",
+        "CorrectOrder":"305214",
         "Parts":["puzzle_01/puzzle_01_part01.jpg","puzzle_01/puzzle_01_part02.jpg","puzzle_01/puzzle_01_part03.jpg","puzzle_01/puzzle_01_part04.jpg","puzzle_01/puzzle_01_part05.jpg","puzzle_01/puzzle_01_part06.jpg"]
     },
     {
         "Type":"Puzzle",
-        "Parts":["puzzle_01/puzzle_01_part01.jpg","puzzle_01/puzzle_01_part02.jpg","puzzle_01/puzzle_01_part03.jpg","puzzle_01/puzzle_01_part04.jpg","puzzle_01/puzzle_01_part05.jpg","puzzle_01/puzzle_01_part06.jpg"]
-    },
-    {
-        "Type":"Puzzle",
+        "FolderParts":"puzzle_01",
+        "CorrectOrder":"305214",
         "Parts":["puzzle_01/puzzle_01_part01.jpg","puzzle_01/puzzle_01_part02.jpg","puzzle_01/puzzle_01_part03.jpg","puzzle_01/puzzle_01_part04.jpg","puzzle_01/puzzle_01_part05.jpg","puzzle_01/puzzle_01_part06.jpg"]
     }
 ]
