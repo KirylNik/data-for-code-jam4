@@ -12,7 +12,7 @@
     {
         "Type":"Select answer",
         "Question":"What was the name of the detachment assembled to destroy the ring?",
-        "Answer":"The Fellowship of the Ring",
+        "Answer":"The Brotherhood of the Ring",
         "Options":["The Brotherhood of the Ring","The Brotherhood of Jewelers","Brotherhood of Frodo"]
     },
     {
